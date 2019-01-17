@@ -1,8 +1,5 @@
 "test1" 
 "test2" 
 "test3" 
-<<<<<<< HEAD
-"test4 du local"
-=======
 "test4 du serveur"
->>>>>>> 064ff5ee8bec1171499374615f3cf4ad4746a1be
+
